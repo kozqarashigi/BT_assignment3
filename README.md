@@ -162,7 +162,7 @@ $ npx hardhat init
 ```
 When Hardhat is run, it searches for the closest hardhat.config.js file starting from the current working directory.
 
-After writing down everything shown in src folder. We had results which shows that it is deployed:
+After writing down everything shown in contracts, scripts, hardhatconfig.js folder. We had results which shows that it is deployed:
 ![Описание изображения](screens/alchemy.png)
 
 ![Описание изображения](screens/MyTokenDeployed.png)
