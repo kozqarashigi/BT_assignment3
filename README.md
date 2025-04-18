@@ -1,4 +1,4 @@
-# Assignment 3 Part 1
+# ERC20 Token Implementation Assignment
 ## Team members:
 - Nurgul Bassanova SE-2323
 - Ulzhan Tamyzgazina SE-2325
